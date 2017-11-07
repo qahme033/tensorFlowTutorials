@@ -6,5 +6,5 @@ print(sess.run(hello))
 a = tf.constant(32)
 b = tf.constant(10)
 
-print(sess.run(a+b))s
+print(sess.run(a+b))
 sess.close()
